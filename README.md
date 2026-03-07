@@ -1,9 +1,9 @@
 # CDSE-Tools
 Copernicus Data Space Ecosystem Tools
 
-The python script 'cdse_search_n_download.py' searches and downloads Earth Observation data from Copernicus Data Space Ecosystem (CDSE) 
+The python script 'cdse_search_n_download.py' searches and downloads Earth Observation data from Copernicus Data Space Ecosystem (CDSE)
 
-Features: 'Enabled_for_Parallel_Downloading', 'Lists_all_query_results', 'User_choice_for_number_of_product_downloads_during_runtime' 
+Features: ['Enabled_for_Parallel_Downloading', 'Lists_all_query_results', 'User_choice_for_number_of_product_downloads_during_runtime'] 
 
 Before executing the python script:
 
