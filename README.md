@@ -16,5 +16,5 @@ Before executing the python script:
   
   - Create your environment variables for your valid CDSE account credentials first by running the below two lines of code in bash:
   
-      export CDSE_USER="enter_your_username"  
-      export CDSE_PASS="enter_your_password"
+        export CDSE_USER="enter_your_username"  
+        export CDSE_PASS="enter_your_password"
