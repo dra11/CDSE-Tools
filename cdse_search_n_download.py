@@ -7,7 +7,7 @@
 # ==============================
 # Before running this file (you must have a valid CDSE User Account - if not, go here - https://dataspace.copernicus.eu/ 
 # Also this for eligible quotas: https://documentation.dataspace.copernicus.eu/Quotas.html#copernicus-general-users
-# Create environment by running the below two lines of code in bash without #
+# Create environment variables for your valid CDSE credentials by running the below two lines of code in bash without #
 # export CDSE_USER="enter_your_username"
 # export CDSE_PASS="enter_your_password"
 # ==============================
